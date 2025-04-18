@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(255, 255, 255);
+    padding-top: 150px;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+.P1 {
+    padding-inline-start: 12cap;
+    color: #148ef1;
+}
+.col-6{
+    padding-left: 30px;
+    padding-top: 30px;
+}
